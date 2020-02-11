@@ -1,0 +1,74 @@
+.blue{
+    
+    background-color: palevioletred;
+width: 50%;
+height: 10px;
+margin-left: 30%;
+padding-bottom: 5%;}
+    .all{
+        background-color: gray;
+        
+        width: 50%;
+        height: 100%;
+        margin-left: 30%;
+        padding-top: 2%;
+  }
+        .sec{
+            margin-left: 10%;
+        }
+        .qty{
+            margin-left: 20%;
+        }
+        .txt{
+            width: 30px;
+            
+            
+        }
+        .ist{
+            margin-left: 20%;
+        }
+.price{
+    margin-left: 20%;
+}
+    .amt{
+        margin-left: 15%;
+    }
+    .cart{
+        margin-left: 53%;
+        
+
+    }
+
+
+.empty{
+    background-color: grey; width: 1000px;
+    height: auto;
+
+
+}
+.col-md-2{
+    height: 1000px;}
+    .col-md-10{
+        background-color: plum;
+    }
+    .details{
+        padding-top: 50px;
+    }
+    
+
+}
+.header{
+    font-size: 25px;
+    text-align: center;
+    color: white;
+}
+.btn{
+    margin-top: 30px;
+
+}
+}
+.picture{
+    margin-top: 100px;
+    width: 100px;
+    
+}

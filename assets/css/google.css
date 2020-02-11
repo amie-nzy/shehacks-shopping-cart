@@ -1,0 +1,26 @@
+.sky{
+    background-color: black
+    width: 200px
+    height: 300px;
+}
+.g{
+    text-align: left;
+    /* margin-left: 200px; */
+    padding-top: 300px ;
+    margin-left: 10px;
+
+}
+.b{border-style: inset;
+    
+    font-size: 22px;
+    width: 500px;
+    text-align: left;
+    margin-left: 400px;
+}
+.g{
+    margin-left: 400px;
+    border-collapse: collapse;
+}
+.all{
+    text-align: center;
+    margin-left: 10%;

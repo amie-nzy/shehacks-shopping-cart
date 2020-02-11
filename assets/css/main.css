@@ -1,0 +1,60 @@
+.small{
+    color: purple;
+    height: 5px;
+    width: 750px;
+}
+.medium{
+    color: white;
+    border: 1px solid black;
+    height: 1000px;
+    width: 500px;
+    
+    margin-left: 500px;
+}
+.big{
+    color: whitesmoke;
+    height: 1500px;
+    width: 750px;
+
+}
+/* .shirt{
+    text-align: left;
+    margin margin-left: 30px;
+}
+.q{
+    margin-left: 30px;
+}
+.text{
+    margin-left: 30px;
+}
+.price{
+    margin-left: 30px;
+    
+} */
+.q{
+    text-align: center;
+    margin-left: 50px;
+}
+.t{
+    text-align: end;
+    margin-left: 25px;
+}
+.c{
+    margin-left: 25px;
+}
+.s{
+    margin-left: 25px;
+}
+.p{
+    margin-left: 25px;
+}
+.n{
+    margin-left: 25px;
+}
+.b{
+    text-align: right;
+    margin-left: 200px;}
+.a{
+    text-align: end;
+    margin-left: 400px;
+}
